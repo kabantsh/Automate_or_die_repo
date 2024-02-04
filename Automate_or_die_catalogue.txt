@@ -1,0 +1,71 @@
+و دي المنشورات السابقة:
+
+- بدينا بي تكنلوجيا ال Wake on Lan (WoL):
+https://www.linkedin.com/pulse/wake-lan-mohamed-ayman
+
+- و من ثم اتكلمت عن مصفوفة التخزين (Storage Array):
+https://www.linkedin.com/feed/update/urn:li:activity:7111718400015409152
+
+
+ - و بعدها واصلنا في SAN Switches:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7114504294661275648-Fezp
+
+و بعد داك اتكلمنا عن انظمة مراقبة الشبكات:
+Network Monitoring & Management Systems part 1:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7117041008248258560-9Kmr
+
+Network Monitoring & Management Systems part 2:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7119577737979211776-J4DK
+
+و من ثم سجل النظام (System Logs)
+Syslog and Centeralized logs part 1:
+https://www.linkedin.com/posts/kabantsh_san-monitoringabrsystems-askabrkabantsh-activity-7124651164591108097-hrGv
+
+Syslog and Centeralized logs part 2:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7127187913385074690-HnXK
+
+و بعديها أوامر الويندوز
+IT Automation command line (shell scripting and Windows CMD Introduction):
+https://www.linkedin.com/posts/kabantsh_ansible-askabrkabantsh-automateabrorabrdie-activity-7129724629589356544-8GBy
+
+و بعديها أداة انسيبل (Ansible):
+IT Automation Ansible:
+https://www.linkedin.com/posts/kabantsh_sdnog-askabrkabantsh-automateabrorabrdie-activity-7132261368354742272-AG1F
+
+و أنظمة النسخ الإحتياطية:
+Backup Systems Part 1:
+https://www.linkedin.com/posts/kabantsh_tapestorage-askabrkabantsh-automateabrorabrdie-activity-7134798060483698688-fctu
+
+Backup Systems Part 2:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7137334792475295744-xDIN
+
+Backup Systems Part 3:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7139871470096150528-3qnq
+
+تكنلوجيا ال Virtualization:
+Virtualization Systems 1:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7142408163932229632-0AIw
+
+Virtualization Systems 2:
+https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-ansible-askkabantsh-activity-7144944871122931713-7vof
+
+تكنلوجيا الحاويات (Containerization)
+Containerization 1:
+https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-activity-7147451385914077184-Dx-n
+
+Containerization 2:
+https://www.linkedin.com/posts/kabantsh_cncf-askabrkabantsh-automateabrorabrdie-activity-7150018286032695296-J1iF
+
+الأخطاء، المشاكل و سناريوهات فشل الأنظمة
+Error, Problem and failure scenarios:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7152555009136603136-aijQ
+
+التغيير و إدارة انظمة الإصدارات
+Version Control Systems:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7155091750737391616-dvAF
+
+انظمة ال CI/CD 
+Continuous Integration/ Continuous Delivery (CI/CD):
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-aepaesaebaewaexaepaeu-askabrkabantsh-activity-7157628500760264706-BQ8l
+
+
