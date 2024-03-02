@@ -34,12 +34,23 @@
 عشان ترجع لي جلسة محفوظة بي إسمها
 ~# attach -t 
 اخرج من الجلسة الحالية 
-~# detach`:
+~# detach
 
 
 
 
 
+
+
+
+
+عشان تنزل ال tmux
+==============
+لو انت شغال بي لينكس Redhat أو Centos
+~# yum install tmux 
+
+أما لو شغال بي Ubuntu أو Debian
+~# apt install tmux
 
 
 
