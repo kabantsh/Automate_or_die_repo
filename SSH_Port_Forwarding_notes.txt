@@ -1,7 +1,17 @@
  أوامر الـ `SSH Port Forwarding`:
 
-تحويل منفذ محلي إلى منفذ مستهدف:
-================== 
+
+SSH port forwarding is a mechanism in SSH for tunneling application ports from the client machine
+to the server machine, or vice versa. It can be used for adding encryption to legacy applications,
+going through firewalls, and some system administrators and IT professionals use it for opening 
+backdoors into the internal network from their home machines. It can also be abused by hackers 
+and malware to open access from the Internet to the internal network. See the SSH tunneling page 
+for a broader overview.
+
+تحويل منفذ محلي إلى منفذ مستهدف
+
+تحويلات لمنافذ داخلية(Local Forwarding) :
+=================================== 
 
 ~# ssh 	-L 5433:localhost:5432 المستخدم@مضيف_الوصل
 ~# ssh 	-L [bind_address:]port:myhost:myhostport 
@@ -10,8 +20,8 @@
 	-L local_socket:host:hostport
 	-L local_socket:remote_socket
 
-تحويل منفذ مستهدف إلى منفذ محلي
-======================
+تحويلات لمنافذ خارجية(Remote Forwarding) :
+=================================== 
 ~# ssh	-R <رقم_المينى_وکیل_محلي>:<عنوان_IP_الآلة_المحلية>:<رقم_المينى_المستهدف>:<عنوان_IP_المضيف_البعيد> <اسم_المستخدم>@<عنوان_IP_المضيف_الوسيط>
 ~# ssh	-R [bind_address:]port:host:hostport
      	-R [bind_address:]port:local_socket
@@ -21,15 +31,36 @@
 
 
 المثال:
+مثلا لو عندك سيرفر بتاع قواعد بيانات 
+(Database Server 5432/tcp and 22/tcp)
+عاوز تفتح فيهو بورتات رقم 22 و 5432 لي الدخول  من بعيد ولي قاعدة البيانات على التوالي:
 
-لنفترض أن لديك قاعدة بيانات على جهاز خادم بعيد (المستهدف) على المنفذ 5432، ولكنه غير متاح للوصول المباشر. يمكنك استخدام جهاز وسيط (المضيف) للوصول إلى قاعدة البيانات عن طريق إعادة توجيه المنفذ 5432 على المضيف إلى المنفذ 5433 على جهازك المحلي باستخدام الأمر التالي:
+~# ssh -R 2222:d76767.nyc.example.com:22 -R 5432:postgres3.nyc.example.com:5432 aws4.mydomain.net
 
+الإعدادات من جهة السيرفر
+(Server-Side Configuration)
+
+
+    AllowTcpForwarding remote     AllowStreamLocalForwarding no
+
+ملاحظات مهمة:
+================== 
+
+    تأكد من أن لديك الصلاحيات اللازمة للوصول إلى المنافذ المستهدفة.
+    احرص على تأمين الاتصالات التي تمر عبر المنافذ الموجهة.
+    استخدم هذه الأوامر بحذر وتحت مسؤوليتك.
 
 و لو دايرة معلومات أكتر ممكن تشوف التعليمات حقته
 ~$ man sshd 
 
+Reference URL:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+https://www.ssh.com/academy/ssh/tunneling-example
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
- |+~~~~~~~~~~~~~~~+
+
+
+ |+~~~~~~~~~~~~~~~+ 
  || Best regrets  |
  || Mohamed Ayman |
  || kabantsh      |
