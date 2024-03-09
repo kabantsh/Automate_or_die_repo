@@ -1,0 +1,40 @@
+ أوامر الـ `SSH Port Forwarding`:
+
+تحويل منفذ محلي إلى منفذ مستهدف:
+================== 
+
+~# ssh 	-L 5433:localhost:5432 المستخدم@مضيف_الوصل
+~# ssh 	-L [bind_address:]port:myhost:myhostport 
+~# ssh 	-L [bind_address:]port:host:hostport
+	-L [bind_address:]port:remote_socket
+	-L local_socket:host:hostport
+	-L local_socket:remote_socket
+
+تحويل منفذ مستهدف إلى منفذ محلي
+======================
+~# ssh	-R <رقم_المينى_وکیل_محلي>:<عنوان_IP_الآلة_المحلية>:<رقم_المينى_المستهدف>:<عنوان_IP_المضيف_البعيد> <اسم_المستخدم>@<عنوان_IP_المضيف_الوسيط>
+~# ssh	-R [bind_address:]port:host:hostport
+     	-R [bind_address:]port:local_socket
+     	-R remote_socket:host:hostport
+     	-R remote_socket:local_socket
+     	-R [bind_address:]port
+
+
+المثال:
+
+لنفترض أن لديك قاعدة بيانات على جهاز خادم بعيد (المستهدف) على المنفذ 5432، ولكنه غير متاح للوصول المباشر. يمكنك استخدام جهاز وسيط (المضيف) للوصول إلى قاعدة البيانات عن طريق إعادة توجيه المنفذ 5432 على المضيف إلى المنفذ 5433 على جهازك المحلي باستخدام الأمر التالي:
+
+
+و لو دايرة معلومات أكتر ممكن تشوف التعليمات حقته
+~$ man sshd 
+
+
+ |+~~~~~~~~~~~~~~~+
+ || Best regrets  |
+ || Mohamed Ayman |
+ || kabantsh      |
+ |+~~~~~~~~~~~~~~~+
+ |
+ |
+ |
+
