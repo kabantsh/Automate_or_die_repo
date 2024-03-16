@@ -4,6 +4,29 @@
 
 و دي المنشورات السابقة:
 
+تحويل البورتات (port forwarding with SSH):
+https://www.linkedin.com/posts/kabantsh_tunnel-automateabrorabrdie-askabrkabantsh-activity-7172848723146752001-jrKt
+
+Multitasking with Tmux:
+https://www.linkedin.com/posts/kabantsh_aepaesaesaeuaeraeb-aepaesaeyaewaeuaeraeb-activity-7167775335911038976-Jg5i
+
+SSH passwordless:
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7165238625192947713-EH1U
+
+Unix philosophy tools (knockd):
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7162701890198216704-yEFd
+
+(وقفة شكر (منشور الإستبيان
+https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-askabrkabantsh-aepaesaebaewaexaepaeu-activity-7160165170588139520-Ko5m 
+
+
+انظمة ال CI/CD 
+Continuous Integration/ Continuous Delivery (CI/CD):
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-aepaesaebaewaexaepaeu-askabrkabantsh-activity-7157628500760264706-BQ8l
+
+
+
+
 - بدينا بي تكنلوجيا ال Wake on Lan (WoL):
 https://www.linkedin.com/pulse/wake-lan-mohamed-ayman
 
@@ -68,26 +91,8 @@ https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepae
 Version Control Systems:
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7155091750737391616-dvAF
 
-انظمة ال CI/CD 
-Continuous Integration/ Continuous Delivery (CI/CD):
-https://www.linkedin.com/posts/kabantsh_askabrkabantsh-aepaesaebaewaexaepaeu-askabrkabantsh-activity-7157628500760264706-BQ8l
-
-(وقفة شكر (منشور الإستبيان
-https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-askabrkabantsh-aepaesaebaewaexaepaeu-activity-7160165170588139520-Ko5m 
 
 
-Unix philosophy tools (knockd):
-https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7162701890198216704-yEFd
-
-SSH passwordless:
-https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7165238625192947713-EH1U
-
-Multitasking with Tmux:
-https://www.linkedin.com/posts/kabantsh_aepaesaesaeuaeraeb-aepaesaeyaewaeuaeraeb-activity-7167775335911038976-Jg5i
-
-
-تحويل البورتات (port forwarding with SSH):
-https://www.linkedin.com/posts/kabantsh_tunnel-automateabrorabrdie-askabrkabantsh-activity-7172848723146752001-jrKt
 
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
