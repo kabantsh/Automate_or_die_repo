@@ -51,7 +51,7 @@ Virtualization Systems 1:
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7142408163932229632-0AIw
 
 Virtualization Systems 2:
-https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-ansible-askkabantsh-activity-7144944871122931713-7vof
+https://www.linkedin.com/feed/update/urn:li:activity:7144944871122931713?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7144944871122931713%29
 
 تكنلوجيا الحاويات (Containerization)
 Containerization 1:
