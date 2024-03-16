@@ -1,3 +1,7 @@
+#automate_or_die 🦾 🖥️
+
+هي سلسلة من المنشورات الأسبوعية في مجال تكنلوجيا المعلومات (Information Technology) تشرح التكنلوجيا و الممارسات بها من وجهه نظر أتمتة تكنلوجيا المعلومات(IT Automation.
+
 و دي المنشورات السابقة:
 
 - بدينا بي تكنلوجيا ال Wake on Lan (WoL):
@@ -82,8 +86,10 @@ Multitasking with Tmux:
 https://www.linkedin.com/posts/kabantsh_aepaesaesaeuaeraeb-aepaesaeyaewaeuaeraeb-activity-7167775335911038976-Jg5i
 
 
+تحويل البورتات (port forwarding with SSH):
+https://www.linkedin.com/posts/kabantsh_tunnel-automateabrorabrdie-askabrkabantsh-activity-7172848723146752001-jrKt
 
-ممكن تشوف الرابط دا عشان تجيك البوستات الجديدة 🔗:
+
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+ادخل الرابط ادناه لعرض المنشورات الحديثة 🔗🆕:
 https://github.com/kabantsh/Automate_or_die_repo/blob/main/Automate_or_die_Linkedin_catalog.txt 
-
-
