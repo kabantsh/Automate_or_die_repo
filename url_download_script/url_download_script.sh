@@ -10,7 +10,7 @@ touch $myfile
 # to show how many lines in the mac address file
 mylines=`wc -l $myfile | awk '{print $1}'`
 echo "__$mylines__"
-        echo -e "\n\n============++++++==============|> This folder has $mylines lines <|============++++++==============\n\n"
+        echo -e "\n\n============++++++==============|> This file has $mylines lines <|============++++++==============\n\n"
 
 
 
@@ -32,15 +32,8 @@ for i in $(eval echo "{$START..$END}")
         sleep 1
           # core command
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-	 cat ../Automate_or_die_Linkedin_catalog.txt | grep -B1 -E 'https:\/\/[^ "]+$'
+#	 cat ../Automate_or_die_Linkedin_catalog.txt | grep -B1 -E 'https:\/\/[^ "]+$'
+	         cat $my_url | grep -B1 -E 'https:\/\/[^ "]+$'      #!!
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-         if [ $? == '0'  ]
-         then
-                mac_is_up
-                echo -e "$my_url\tThis device is starting now" >> $outputfile
-        else
-               echo -e "\n\n\n\nInvalid Syntax\n\n\n\n"
-        fi
-
 #        set +x
  done
