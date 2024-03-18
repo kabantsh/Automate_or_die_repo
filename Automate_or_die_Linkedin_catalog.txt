@@ -27,44 +27,44 @@ Thanks post: https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D
 
 Continuous Integration/ Continuous Delivery (CI/CD):  https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
 
- Version Control Systems:  https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
+Version Control Systems:  https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
  
  الأخطاء، المشاكل و سناريوهات فشل الأنظمة: 
  https://www.linkedin.com/help/linkedin/answer/a520521](https://www.linkedin.com/help/linkedin/answer/a520521
 
- تكنلوجيا الحاويات (Containerization):
+Containerization:
  https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith](https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith
 
- تكنلوجيا ال Virtualization:
- https://www.linkedin.com/learning/learning-virtualization-13945890](https://www.linkedin.com/learning/learning-virtualization-13945890
+Virtualization: https://www.linkedin.com/learning/learning-virtualization-13945890](https://www.linkedin.com/learning/learning-virtualization-13945890
      https://www.linkedin.com/posts/microtreesdnbhd_10-benefits-of-server-virtualization-for-activity-7097426756852219905-P75u](https://www.linkedin.com/posts/microtreesdnbhd_10-benefits-of-server-virtualization-for-activity-7097426756852219905-P75u
 
- أنظمة النسخ الإحتياطية:
+ Backup Systems 1:
  https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
- https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
- https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG](https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG
 
- أداة انسيبل (Ansible): 
+Backup Systems 2: https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
+
+Backup Systems 3: https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG](https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG
+
+ Ansible overview: 
  https://www.linkedin.com/company/ansible](https://www.linkedin.com/company/ansible
 
- أوامر الويندوز (IT Automation command line): 
- https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows
+ Windows Commands basics: 
+ https://www.linkedin.com//introduction-to-it-automation/automating-windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows
 
- سجل النظام (Syslog and Centeralized logs):
+Syslog and Centeralized logs 1:
      https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-     https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
- أنظمة مراقبة الشبكات (Network Monitoring & Management Systems):
- https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
-https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
- https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO](https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO)
- SAN Switches: 
- https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm](https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm
- وحدات التخزين (Storage Array): 
- https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra](https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra
 
- Wake on Lan (WoL): 
- https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network](https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network
+Syslog and Centeralized logs 2:     https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
+Network Monitoring & Management Systems 1: https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
+https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
+
+Network Monitoring & Management Systems 2: https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO](https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO)
+
+SAN Switches:  https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm](https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm
+
+Storage Array:  https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra](https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra
 
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
