@@ -1,6 +1,7 @@
 
 
 
+#MYCWD="`pwd`"
 myfile='../Automate_or_die_Linkedin_catalog.txt'
 touch $myfile
 outputfile='output_download_url_script.txt'
@@ -26,14 +27,14 @@ END=$for_index
 for i in $(eval echo "{$START..$END}")
  do
 
+##	 set -x
          split
-        my_url=`cat  $myfile | head -$i | tail -1`
-#        set -x
+        my_url=`cat  $myfile | grep -B1 -E 'https:\/\/[^ "]+$' | head -$i | tail -1`
         sleep 1
-          # core command
+        # core command
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #	 cat ../Automate_or_die_Linkedin_catalog.txt | grep -B1 -E 'https:\/\/[^ "]+$'
-	         cat $my_url | grep -B1 -E 'https:\/\/[^ "]+$'      #!!
+	echo $my_url
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #        set +x
  done
