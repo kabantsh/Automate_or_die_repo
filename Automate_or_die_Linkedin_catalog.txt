@@ -4,6 +4,10 @@
 
 و دي المنشورات السابقة:
 
+ تشغيل الجهاز عن طريق الشبكة (Wake on Lan WoL) 🌐🔌
+https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-wakeonlan-wol-activity-7175385511274942464-L25p
+
+
 تحويل البورتات (port forwarding with SSH):
 https://www.linkedin.com/posts/kabantsh_tunnel-automateabrorabrdie-askabrkabantsh-activity-7172848723146752001-jrKt
 
