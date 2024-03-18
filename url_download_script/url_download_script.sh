@@ -35,6 +35,13 @@ for i in $(eval echo "{$START..$END}")
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #	 cat ../Automate_or_die_Linkedin_catalog.txt | grep -B1 -E 'https:\/\/[^ "]+$'
 	echo $my_url
+	if my_url == ""
+	then
+		#return 0
+		exit
+	else
+		continue 
+	fi
         #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #        set +x
  done
