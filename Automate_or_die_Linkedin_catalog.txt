@@ -15,43 +15,63 @@
 https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-wakeonlan-wol-activity-7175385511274942464-L25p
 
 
- تحويل البورتات (port forwarding with SSH): https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
- Multitasking with Tmux: https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
- SSH passwordless: https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
- Unix philosophy tools (knockd): https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
- (وقفة شكر (منشور الإستبيان: https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
+ تحويل البورتات (port forwarding with SSH): 
+ https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
+ 
+ Multitasking with Tmux: 
+ https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
+ 
+ SSH passwordless: 
+ https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
+ Unix philosophy tools (knockd): 
+ https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
+ 
+ (وقفة شكر (منشور الإستبيان: 
+ https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
 https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
- انظمة ال CI/CD (Continuous Integration/ Continuous Delivery): https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
- التغيير و إدارة انظمة الإصدارات: https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
- الأخطاء، المشاكل و سناريوهات فشل الأنظمة: https://www.linkedin.com/help/linkedin/answer/a520521](https://www.linkedin.com/help/linkedin/answer/a520521
+ انظمة ال CI/CD (Continuous Integration/ Continuous Delivery): 
+ https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
+
+ التغيير و إدارة انظمة الإصدارات: 
+ https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
+ 
+ الأخطاء، المشاكل و سناريوهات فشل الأنظمة: 
+ https://www.linkedin.com/help/linkedin/answer/a520521](https://www.linkedin.com/help/linkedin/answer/a520521
+
  تكنلوجيا الحاويات (Containerization):
-     https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith](https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith
-     https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith](https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith
+ https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith](https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith
+
  تكنلوجيا ال Virtualization:
-     https://www.linkedin.com/learning/learning-virtualization-13945890](https://www.linkedin.com/learning/learning-virtualization-13945890
+ https://www.linkedin.com/learning/learning-virtualization-13945890](https://www.linkedin.com/learning/learning-virtualization-13945890
      https://www.linkedin.com/posts/microtreesdnbhd_10-benefits-of-server-virtualization-for-activity-7097426756852219905-P75u](https://www.linkedin.com/posts/microtreesdnbhd_10-benefits-of-server-virtualization-for-activity-7097426756852219905-P75u
+
  أنظمة النسخ الإحتياطية:
-     https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
-     https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
-     https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG](https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG
- أداة انسيبل (Ansible): https://www.linkedin.com/company/ansible](https://www.linkedin.com/company/ansible
- أوامر الويندوز (IT Automation command line): https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows
+ https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
+ https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888](https://www.linkedin.com/learning/system-administration-backup-and-recovery-21776888
+ https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG](https://www.linkedin.com/posts/dan-tretheway-936977_aws-native-backup-via-commvault-implemented-activity-7067901142579515392-M4hG
+
+ أداة انسيبل (Ansible): 
+ https://www.linkedin.com/company/ansible](https://www.linkedin.com/company/ansible
+
+ أوامر الويندوز (IT Automation command line): 
+ https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows
+
  سجل النظام (Syslog and Centeralized logs):
      https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
      https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
  أنظمة مراقبة الشبكات (Network Monitoring & Management Systems):
-     https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
+ https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
 https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
-     https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO](https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO)
- SAN Switches: https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm](https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm
- وحدات التخزين (Storage Array): https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra](https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra
- Wake on Lan (WoL): https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network](https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network
+ https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO](https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO)
+ SAN Switches: 
+ https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm](https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm
+ وحدات التخزين (Storage Array): 
+ https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra](https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra
 
+ Wake on Lan (WoL): 
+ https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network](https://business.linkedin.com/marketing-solutions/native-advertising/linkedin-audience-network
 
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-ادخل الرابط ادناه لعرض المنشورات الحديثة 🔗🆕:
-https://github.com/kabantsh/Automate_or_die_repo/blob/main/Automate_or_die_Linkedin_catalog.txt
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 ادخل الرابط ادناه لعرض المنشورات الحديثة 🔗🆕:
