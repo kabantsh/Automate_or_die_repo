@@ -11,29 +11,23 @@
 #automate_or_die 🦾 🖥️
 
 المواضيع:
- تشغيل الجهاز عن طريق الشبكة (Wake on Lan WoL) 🌐🔌
+Wake on Lan WoL 🌐🔌
 https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-wakeonlan-wol-activity-7175385511274942464-L25p
 
 
- تحويل البورتات (port forwarding with SSH): 
- https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
+Port Forwarding with SSH:  https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
  
- Multitasking with Tmux: 
- https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
+Multitasking with Tmux:  https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
  
- SSH passwordless: 
- https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
- Unix philosophy tools (knockd): 
- https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
- 
- (وقفة شكر (منشور الإستبيان: 
- https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
-https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
- انظمة ال CI/CD (Continuous Integration/ Continuous Delivery): 
- https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
+SSH passwordless:  https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
 
- التغيير و إدارة انظمة الإصدارات: 
- https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
+Port knocking with knockd:  https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
+ 
+Thanks post: https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
+
+Continuous Integration/ Continuous Delivery (CI/CD):  https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
+
+ Version Control Systems:  https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
  
  الأخطاء، المشاكل و سناريوهات فشل الأنظمة: 
  https://www.linkedin.com/help/linkedin/answer/a520521](https://www.linkedin.com/help/linkedin/answer/a520521
