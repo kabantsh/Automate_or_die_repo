@@ -48,7 +48,7 @@ Backup Systems 3: https://www.linkedin.com/posts/dan-tretheway-936977_aws-native
  Ansible overview: 
  https://www.linkedin.com/company/ansible](https://www.linkedin.com/company/ansible
 
- Windows Commands basics: 
+ Windows Commands basics (🪟 🧲Ⓜ️🌓): 
  https://www.linkedin.com//introduction-to-it-automation/automating-windows](https://www.linkedin.com/learning/introduction-to-it-automation/automating-windows
 
 Syslog and Centeralized logs 1:
