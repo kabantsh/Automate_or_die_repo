@@ -15,7 +15,7 @@ Wake on Lan WoL 🌐🔌
 https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-wakeonlan-wol-activity-7175385511274942464-L25p
 
 
-Port Forwarding with SSH:  https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
+Port Forwarding with SSH (⏩🅿️):  https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
  
 Multitasking with Tmux:  https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
  
