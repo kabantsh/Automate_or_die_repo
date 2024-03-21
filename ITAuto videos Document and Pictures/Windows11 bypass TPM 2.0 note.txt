@@ -1,0 +1,31 @@
+To enable windows 11 bypass TPM 2.0 :
+
+1- On installation menu open CMD by pressing Shift+F10 
+
+2- Go to registery
+3- Add new key to following paths Name it LabConfig
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\Setup\
+
+4- Add following enteries to LabConfig as DWORD32 (32 bit value)
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig
+
+BypassTPMCheck 1
+BypassSecureBootCheck 1
+BypassRAMCheck 1
+
+
+Reference URL (video):
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+https://www.youtube.com/watch?v=5TAGzPeqww8
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+ |+~~~~~~~~~~~~~~~+ 
+ || Best regrets  |
+ || Mohamed Ayman |
+ || kabantsh      |
+ |+~~~~~~~~~~~~~~~+
+ |
+ |
+ |
