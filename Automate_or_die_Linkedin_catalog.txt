@@ -44,31 +44,31 @@ https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepae
 Error, Problem and failure scenarios (⛓️‍💥✴️💣):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7152555009136603136-aijQ
 
-Containerization 1 (🫙1️⃣):
+Containerization 1 (🫙❶):
 https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-activity-7147451385914077184-Dx-n
 
-Containerization 2 (🫙2️⃣):
+Containerization 2 (🫙➋):
 https://www.linkedin.com/posts/kabantsh_cncf-askabrkabantsh-automateabrorabrdie-activity-7150018286032695296-J1iF
 
-Virtualization Systems 1:
+Virtualization Systems 1 (📦❶):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7142408163932229632-0AIw
 
-Virtualization Systems 2:
+Virtualization Systems 2 (📦➋):
 https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-ansible-askkabantsh-activity-7144944871122931713-wnxT
 
-Backup Systems 1:
+Backup Systems 1 (🎒🖥️❶):
 https://www.linkedin.com/posts/kabantsh_tapestorage-askabrkabantsh-automateabrorabrdie-activity-7134798060483698688-fctu
 
-Backup Systems 2:
+Backup Systems 2 (🎒🖥️➋):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7137334792475295744-xDIN
 
-Backup Systems 3:
+Backup Systems 3 (🎒🖥️➌):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7139871470096150528-3qnq
 
 Ansible overview (🅐🅝🅢🅘🅑🅛🅔):
 https://www.linkedin.com/posts/kabantsh_sdnog-askabrkabantsh-automateabrorabrdie-activity-7132261368354742272-AG1F
 
-Windows Commands basics (🪟 🧲Ⓜ️🌓):
+Windows Commands basics (🪟 🧲Ⓜ️🌓 ):
 https://www.linkedin.com/posts/kabantsh_ansible-askabrkabantsh-automateabrorabrdie-activity-7129724629589356544-8GBy
 
 Syslog and Centeralized logs 1 (🗞️🖥️❶):
