@@ -16,38 +16,38 @@ Automation Steps 🤖🪜:
 https://www.linkedin.com/posts/kabantsh_aelaesaetaesabraeqaeyabraepaevaet-automateabrorabrdie-activity-7177929709979131904-IWSO
 
 
-Wake on Lan WoL 
+Wake on Lan WoL 🌐🔌:
 https://www.linkedin.com/posts/kabantsh_automateabrorabrdie-wakeonlan-wol-activity-7175385511274942464-L25p
 
 Port Forwarding with SSH (⏩🅿️):
 https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ](https://www.linkedin.com/posts/joemccray_how-to-perform-remote-ssh-tunneling-infosec-activity-6397761603441295360-jPbJ
  
-Multitasking with Tmux:
+Multitasking with Tmux 🪟:
 https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
  
-SSH passwordless:
+SSH passwordless (*️⃣*️⃣❌):
 https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
 
 Port knocking with knockd (🤛🏿🚪):
 https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
  
-Thanks post:
+Thanks post (📜🤩):
 https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
 
-Continuous Integration/ Continuous Delivery (CI/CD):
+Continuous Integration/ Continuous Delivery (CI/CD) (♻️🌐/♻️📨):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-aepaesaebaewaexaepaeu-askabrkabantsh-activity-7157628500760264706-BQ8l
 
-Version Control Systems (with git):
+Version Control Systems (🈂️🎛️):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7155091750737391616-dvAF
 
  
-Error, Problem and failure scenarios:
+Error, Problem and failure scenarios (⛓️‍💥✴️💣):
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7152555009136603136-aijQ
 
-Containerization 1:
+Containerization 1 (🫙1️⃣):
 https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-activity-7147451385914077184-Dx-n
 
-Containerization 2:
+Containerization 2 (🫙2️⃣):
 https://www.linkedin.com/posts/kabantsh_cncf-askabrkabantsh-automateabrorabrdie-activity-7150018286032695296-J1iF
 
 Virtualization Systems 1:
