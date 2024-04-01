@@ -64,14 +64,13 @@ Syslog and Centeralized logs 1:
 Syslog and Centeralized logs 2:     https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
-Network Monitoring & Management Systems 1: https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
-https://www.linkedin.com/posts/netatmo_one-single-app-for-all-your-security-needs-activity-7066413938128609280-r7-M
+Network Monitoring & Management Systems 1: https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7117041008248258560-9Kmr
 
-Network Monitoring & Management Systems 2: https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO](https://www.linkedin.com/posts/worldsensing_cmtcloudv2-connectivity-remotemonitoring-activity-7163804549470797824-xSAO)
+Network Monitoring & Management Systems 2: https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7119577737979211776-J4DK
 
-SAN Switches:  https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm](https://www.linkedin.com/posts/eldadsi_brocade-broadcom-san-activity-7165294090316722177-bSxm
+SAN Switches:  https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7114504294661275648-Fezp
 
-Storage Array:  https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra](https://engineering.linkedin.com/teams/data/data-infrastructure/storage-infra
+Storage Array:  https://www.linkedin.com/feed/update/urn:li:activity:7111718400015409152
 
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
