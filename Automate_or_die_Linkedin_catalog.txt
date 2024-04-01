@@ -29,15 +29,20 @@ Port knocking with knockd (🤛🏿🚪):  https://www.linkedin.com/posts/kevinn
  
 Thanks post: https://ae.linkedin.com/posts/meshaalth_%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B5%D9%84%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-activity-6779706928982433792-VsQQ?trk=public_profile_like_view
 
-Continuous Integration/ Continuous Delivery (CI/CD):  https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline
+Continuous Integration/ Continuous Delivery (CI/CD):
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-aepaesaebaewaexaepaeu-askabrkabantsh-activity-7157628500760264706-BQ8l
 
-Version Control Systems:  https://www.linkedin.com/learning/learning-software-version-control-21863894](https://www.linkedin.com/learning/learning-software-version-control-21863894
+Version Control Systems (with git):
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7155091750737391616-dvAF
+
  
- الأخطاء، المشاكل و سناريوهات فشل الأنظمة: 
- https://www.linkedin.com/help/linkedin/answer/a520521](https://www.linkedin.com/help/linkedin/answer/a520521
+Error, Problem and failure scenarios: https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7152555009136603136-aijQ
 
-Containerization:
- https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith](https://www.linkedin.com/learning/agile-software-development-cloud-architecture/containerization-process-splitting-the-monolith
+Containerization 1:
+https://www.linkedin.com/posts/kabantsh_%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%B9%D9%84%D9%89-linkedin-activity-7147451385914077184-Dx-n
+
+Containerization 2:
+https://www.linkedin.com/posts/kabantsh_cncf-askabrkabantsh-automateabrorabrdie-activity-7150018286032695296-J1iF
 
 Virtualization Systems 1:
 https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7142408163932229632-0AIw
