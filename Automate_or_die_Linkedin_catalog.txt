@@ -68,7 +68,7 @@ https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepae
 Ansible overview (🅐🅝🅢🅘🅑🅛🅔):
 https://www.linkedin.com/posts/kabantsh_sdnog-askabrkabantsh-automateabrorabrdie-activity-7132261368354742272-AG1F
 
-Windows Commands basics (🪟 🧲Ⓜ️🌓 ):
+Windows Commands basics (🪟 🅒🅜🅓):
 https://www.linkedin.com/posts/kabantsh_ansible-askabrkabantsh-automateabrorabrdie-activity-7129724629589356544-8GBy
 
 Syslog and Centeralized logs 1 (🗞️🖥️❶):
