@@ -26,7 +26,7 @@ Multitasking with Tmux 🪟:
 https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN](https://www.linkedin.com/posts/parthjadhav04_tmuxer-launch-tmux-sessions-with-ease-activity-7167784618799054848-tpoN
  
 SSH passwordless (*️⃣*️⃣❌):
-https://supabase.com/docs/guides/auth/social-login/auth-linkedin](https://supabase.com/docs/guides/auth/social-login/auth-linkedin
+https://www.linkedin.com/posts/kabantsh_askabrkabantsh-automateabrorabrdie-aepaesaevaetaexaesaesaev-activity-7165238625192947713-EH1U
 
 Port knocking with knockd (🤛🏿🚪):
 https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd](https://www.linkedin.com/posts/kevinnisterenko_i-am-extremely-excited-to-announce-that-i-activity-7169108240864100352-oopd)
